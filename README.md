@@ -44,4 +44,4 @@ Now paste any amount of image you want to placehold to the newly created folder 
 
 **Author:** Abraham Tugalov (a.k.a. Priler)
 
-**Tutorial Creadit:** [Rashed Mahmud](https://guthub.com/rashedxyz)
+**Tutorial Creadit:** [Rashed Mahmud](https://github.com/rashedxyz)
